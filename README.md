@@ -98,12 +98,15 @@ run command "docker build -t dockerfile"
 <img width="1177" height="519" alt="Screenshot 2025-08-06 at 6 17 09 am" src="https://github.com/user-attachments/assets/c7d23624-67c5-40c8-bc3a-7d30410dc43f" />
 
 
-now we have to push the container in to docker hub
+### now we have to push the container in to docker hub
 
 <img width="1175" height="268" alt="Screenshot 2025-08-06 at 6 22 22 am" src="https://github.com/user-attachments/assets/19afabcd-40b2-452f-9695-e65e59daac71" />
 
  
 
+### verify your images in the docker repository
+
+<img width="1437" height="705" alt="Screenshot 2025-08-06 at 6 26 11 am" src="https://github.com/user-attachments/assets/41c9bc7e-82f9-4c42-a410-60233b114546" />
 
 
 
