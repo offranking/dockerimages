@@ -62,17 +62,47 @@ run command "docker build -t dockerfile"
 <img width="1413" height="453" alt="Screenshot 2025-08-06 at 5 54 13 am" src="https://github.com/user-attachments/assets/da6123ca-1275-42e9-a49e-25007b5c5a9f" />
 
 
+### To list all available containers "docker ps -a"
+
+<img width="1256" height="142" alt="Screenshot 2025-08-06 at 5 57 05 am" src="https://github.com/user-attachments/assets/8cac5dec-452d-4bd2-aef5-d50fe7c59216" />
+
+### to check the containers run docker start with the containers ID "docker start"
+<img width="1282" height="62" alt="Screenshot 2025-08-06 at 5 59 40 am" src="https://github.com/user-attachments/assets/e701f19c-7f88-4cd3-922c-55ef7f123c57" />
+
+
+### after that run docker ps -a
+
+
+<img width="1425" height="139" alt="Screenshot 2025-08-06 at 6 02 04 am" src="https://github.com/user-attachments/assets/f75e0bce-c417-4446-9fa1-a3980909e4e0" />
+
+### now we need to gain access to out web browser by using the public iP http://3.85.162.93:8080
 
 
 
 
+<img width="1440" height="856" alt="Screenshot 2025-08-06 at 6 04 50 am" src="https://github.com/user-attachments/assets/6dbf23a2-83bb-42c0-b1c2-f1377f7c0aee" />
+
+### Now, you need to create a repository on Docker Hub to store and share your Docker images.
 
 
 
+<img width="1180" height="600" alt="Screenshot 2025-08-06 at 7 32 24 am" src="https://github.com/user-attachments/assets/8be94a6a-4f77-475f-8bea-7e83b61a8727" />
+
+### now we have to tag the repository on docker hub
+
+<img width="1021" height="59" alt="Screenshot 2025-08-06 at 6 19 10 am" src="https://github.com/user-attachments/assets/47647452-a4e1-4425-803c-048ba3b1994f" />
+<img width="1437" height="705" alt="Screenshot 2025-08-06 at 6 26 11 am" src="https://github.com/user-attachments/assets/ff719e29-a2c6-4774-b1fa-ff8128f82b33" />
 
 
 
+<img width="1177" height="519" alt="Screenshot 2025-08-06 at 6 17 09 am" src="https://github.com/user-attachments/assets/c7d23624-67c5-40c8-bc3a-7d30410dc43f" />
 
+
+now we have to push the container in to docker hub
+
+<img width="1175" height="268" alt="Screenshot 2025-08-06 at 6 22 22 am" src="https://github.com/user-attachments/assets/19afabcd-40b2-452f-9695-e65e59daac71" />
+
+ 
 
 
 
