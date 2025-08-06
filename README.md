@@ -38,8 +38,44 @@ run command "docker build -t dockerfile"
 
 <img width="1440" height="690" alt="Screenshot 2025-08-06 at 5 41 29 am" src="https://github.com/user-attachments/assets/b68b8d9d-f4c7-4775-bd2e-b0b707e9f10d" />
 
-run docker images to see the images and the id
+### run docker images to see the images and the id
 
 <img width="910" height="160" alt="Screenshot 2025-08-06 at 5 44 27 am" src="https://github.com/user-attachments/assets/d23c6934-937a-4be2-89a7-f3cf3982f19f" />
+
+### To run a container based on the NGINX image you created using your Dockerfile, use the following command "docker run -p 8080:80 dockerfile"
+
+<img width="951" height="432" alt="Screenshot 2025-08-06 at 5 47 02 am" src="https://github.com/user-attachments/assets/c56016e8-67f0-4280-bfce-16ce1cb26826" />
+
+### On this step, you need to access your EC2 instance’s security group to configure inbound rules:
+
+
+<img width="1245" height="264" alt="Screenshot 2025-08-06 at 5 48 52 am" src="https://github.com/user-attachments/assets/ca057b09-6721-49ee-9a0e-bb986242b70f" />
+
+### Edit inbound rules.
+
+
+
+<img width="1437" height="451" alt="Screenshot 2025-08-06 at 5 52 10 am" src="https://github.com/user-attachments/assets/6c69cd19-1c39-4040-832d-fa50e5428e7a" />
+
+### Add the new rule
+
+<img width="1413" height="453" alt="Screenshot 2025-08-06 at 5 54 13 am" src="https://github.com/user-attachments/assets/da6123ca-1275-42e9-a49e-25007b5c5a9f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
